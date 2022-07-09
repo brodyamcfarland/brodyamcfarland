@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **any Web3 Dapps or Smart Contract Projectss**
 
-- 👨‍💻 All of my projects are available at [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/)
+- 👨‍💻 All of my projects are available at [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/) or by clicking Github Pages Deployment inside of the repo.
 
-- 📫 How to reach me **brodyamcfarland@gmail.com**
+- 📫 How to reach me **brodyamcfarland@gmail.com** or via Twitter
 
 - ⚡ Hobbies **Coding, Crypto, Skateboarding, Snowboarding, Music Production, Golf**
 
