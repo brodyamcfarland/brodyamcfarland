@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any Web3 Dapps or Smart Contract Projectss**
 
-- 👨‍💻 All of my projects are available at [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/) or by clicking Github Pages Deployment inside of the repo.
+- 👨‍💻 All of my projects are available at [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/) or by checking the Github-Pages deployment inside of the repo.
 
 - 📫 How to reach me **brodyamcfarland@gmail.com** or via Twitter
 
@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/off2eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="off2eth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/off2eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="off2eth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
