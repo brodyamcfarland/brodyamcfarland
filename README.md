@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [c0nn3ct3d and Soulbound](https://brodyamcfarland.github.io/Soulbound/)
 
-- 👯 I’m looking to collaborate on **any Web3 Dapps or Smart Contract Projectss**
+- 👯 I’m looking to collaborate on **any Web3 Dapps or Smart Contract Projects**
 
 - 👨‍💻 All of my projects are available at [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/) or by checking the Github-Pages deployment inside of the repo.
 
