@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/off2eth" target="blank"><img src="https://img.shields.io/twitter/follow/off2eth?logo=twitter&style=for-the-badge" alt="off2eth" /></a> </p>
 
-- 🔭 I’m currently working on a Soulbound Token Project (Minting Website and web3 Social Media) [c0nn3ct3d and Soulbound](https://brodyamcfarland.github.io/Soulbound/)
+- 🔭 I’m currently working on full-stack app and getting more farmiliar with backend and servers.
 
 - 👯 I’m looking to collaborate on **any Web3 Dapps or Smart Contract Projects**
 
