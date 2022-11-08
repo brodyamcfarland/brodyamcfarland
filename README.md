@@ -1,10 +1,10 @@
-<h3 align="center">Software / Blockchain Dev</h3>
+<h3 align="center">Web Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brodyamcfarland&label=Profile%20views&color=0e75b6&style=flat" alt="brodyamcfarland" /> </p>
 
 <p align="left"> <a href="https://twitter.com/off2eth" target="blank"><img src="https://img.shields.io/twitter/follow/off2eth?logo=twitter&style=for-the-badge" alt="off2eth" /></a> </p>
 
-- React, React Native, Typescript, and Solidity.
+- Mostly NextJS, React, React Native, Typescript, Tailwind and Solidity.
 
 - Portfolio [https://brodyamcfarland.github.io/BrodyMcFarland/](https://brodyamcfarland.github.io/BrodyMcFarland/)
 
